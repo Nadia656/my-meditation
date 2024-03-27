@@ -1,0 +1,44 @@
+.container-countdown {
+    display: flex;
+    justify-content: flex-start;
+    
+}
+
+.countdown {
+    margin-top: 70px;
+    font-size: 30px;
+    border-radius: 10px;
+    padding: 10px;
+    background: linear-gradient(to right, #161f47, #f0f3f5);
+    color: #fff;
+    
+    
+    
+}
+
+.myVideo {
+    position: fixed; 
+    top: 0;
+    right: 0;
+    min-height: 100%;
+    min-width: 100%;
+    z-index: -10;
+}
+
+.myButton {
+    display: none;
+}
+
+@media all and (max-width: 500px){
+    .myButton{
+        padding: 10px;
+        border-radius: 20px;
+        background: linear-gradient(to right, #1a1e31, #f0f3f5);
+        display: block;
+        color: black;
+    }
+}
+
+body{
+    background: linear-gradient(to right, #1a1f31, #f0f3f5);
+}

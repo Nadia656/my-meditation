@@ -1,0 +1,75 @@
+.one {
+    background-image: url(night.jpg);
+}
+
+.two{
+    background-image: url(yoga.jpg);
+}
+
+.three{
+    background-image: url(owl.jpg);
+}
+
+body {
+    background: linear-gradient(to right, #A5C0DD, #f0f3f5);
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    color: transparent;    
+	-webkit-background-clip: text;
+	background-clip: text;
+	background-image: linear-gradient(to right, #fff, #000000);
+    
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.container{
+    display: flex;
+}
+
+.item {
+    height: 90vh;
+    background-position: center;
+    background-size: cover;
+    flex: 1;
+    margin: 5px;
+    position: relative;
+    color: white;
+}
+
+a {
+    position: absolute;
+    top: 80px;
+    left: 30px;
+    color: white; 
+    text-decoration: none;
+}
+
+.par{
+    position: absolute;
+    bottom: 130px;
+    left: 70px;
+    color: white;
+
+}
+   
+
+.selected {
+    flex: 4;
+}
+
+.selected a{
+    font-size: 40px;
+    transition: all 1s ease-in;
+}
+
+.selected .par{
+    font-size: 20px;
+    transition: all 1s ease-in;
+}
+
