@@ -3,11 +3,7 @@
 My Meditation is a JS/HTML/CSS project for relaxation.
 ## Usage
 
-1. enter all data  
-
-2. enter number of people
-
-3. calculate the sum for every person
+Open every link for finding the appropriate music  
 
 ![Nature](meditationApp.png)
 
