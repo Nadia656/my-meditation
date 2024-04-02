@@ -1,6 +1,6 @@
-# Pet App
+# My Meditation
 
-Pet App is a HTML/CSS project for calculating pet expenses for every owner.
+My Meditation is a JS/HTML/CSS project for relaxation.
 ## Usage
 
 1. enter all data  
@@ -9,7 +9,7 @@ Pet App is a HTML/CSS project for calculating pet expenses for every owner.
 
 3. calculate the sum for every person
 
-![Pet Application](petApp.png)
+![Nature](meditationApp.png)
 
 
 ## Built With
@@ -24,4 +24,4 @@ to discuss what you would like to change.
 
 ## Contact
 Name: https://github.com/Nadia656 </br>
-Project Link: https://github.com/Nadia656/pet-app
+Project Link: https://github.com/Nadia656/my-meditation.git
